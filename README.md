@@ -1,3 +1,3 @@
 # Chart preview
 
-Preview of [svelte](https://svelte.dev/) [d3](https://d3js.org/) chart 
+Preview of chart build with [svelte](https://svelte.dev/) and [d3](https://d3js.org/)
